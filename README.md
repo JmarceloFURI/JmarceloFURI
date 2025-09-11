@@ -6,6 +6,7 @@
 🎯 **Ingeniero en Gestión Informática | Especialista en Seguridad Estratégica y Ciberseguridad | Terapeuta Pránico Senior**
 
 Con más de **21 años de experiencia** liderando operaciones estratégicas, gestión de crisis y proyectos tecnológicos en entornos de alta exigencia.  
+
 Mi propósito es **integrar la tecnología, la estrategia y el bienestar humano** en cada iniciativa que desarrollo.
 
 ---
