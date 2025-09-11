@@ -1,6 +1,3 @@
-<!-- Banner principal -->
-![Banner](https://i.imgur.com/Zz6tOZz.png)
-
 # 👋 Hola, soy **José Marcelo Fuentealba Ríos**
 
 🎯 **Ingeniero en Gestión Informática | Especialista en Seguridad Estratégica y Ciberseguridad | Terapeuta Pránico Senior**
