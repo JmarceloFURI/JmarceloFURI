@@ -1,4 +1,4 @@
-# 👋 Hola, soy **José Marcelo Fuentealba Ríos**
+# 👋 Hola, soy **José Fuentealba Ríos**
 
 🎯 **Ingeniero en Gestión Informática | Especialista en Seguridad Estratégica y Ciberseguridad | Terapeuta Pránico Senior**
 
